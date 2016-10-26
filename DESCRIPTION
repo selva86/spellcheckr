@@ -1,0 +1,16 @@
+Package: spellcheckr
+Type: Package
+Title: Correct the Spelling of a Given Word in the English Language
+Version: 0.1.0
+Author: Selva Prabhakaran
+Maintainer: Selva Prabhakaran <selva86@gmail.com>
+Description: This is based on Peter Norvig's spell correct algorithm
+    However this one is modified to handle upto three edits.
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    data.table,
+    dplyr,
+    stringr
+RoxygenNote: 5.0.1
