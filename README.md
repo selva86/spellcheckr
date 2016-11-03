@@ -1,6 +1,6 @@
 ## spellcheckr
 Corrects the spelling of a given word in English using a modification of Peter Norvig's spell correct algorithm but is enhanced to handle up to three edits. 
-The algorithm tries to find the spelling with maximum probability of intended correction out of all possible candidate corrections from the original word.
+The algorithm tries to find the spelling with maximum probability of intended correction out of all possible candidate corrections derived from the original word.
 
 #### How to install?
     # Install Dev Version on GitHub
